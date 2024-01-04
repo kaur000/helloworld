@@ -1,2 +1,2 @@
 # helloworld
-my first github for sdev 328
+my first github repo for sdev 328
